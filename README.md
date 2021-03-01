@@ -15,6 +15,24 @@ Some illustrative examples are shown below:
 <br/>
 
 <p align="left">
-  <img width="750" src="./images/image_3.PNG">
+  <img width="100%" src="./images/image_3.PNG">
 </p>
 <br/>
+<br/>
+
+
+
+<table>
+  <tr>
+    <td><img width="100%" src="./images/image_1.PNG"></td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<table>
+  <tr>
+    <td><img width="100%" src="./images/image_2.PNG"></td>
+  </tr>
+</table>
