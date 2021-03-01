@@ -15,6 +15,6 @@ Some illustrative examples are shown below:
 <br/>
 
 <p align="left">
-  <img width="750" src="../images/img.PNG">
+  <img width="750" src="../images/image3.PNG">
 </p>
 <br/>
