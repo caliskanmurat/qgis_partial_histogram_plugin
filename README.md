@@ -23,18 +23,9 @@ This plugin creates histogram of a part of a raster. The histogram is created ac
 <br/>
 
 
-
-<table>
-  <tr>
-    <td><img width="100%" src="./images/image_1.PNG"></td>
-  </tr>
-</table>
+<img width="100%" src="./images/image_1.PNG">
 
 <br/>
 <br/>
 
-<table>
-  <tr>
-    <td><img width="100%" src="./images/image_2.PNG"></td>
-  </tr>
-</table>
+<img width="100%" src="./images/image_2.PNG">
