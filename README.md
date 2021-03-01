@@ -11,7 +11,9 @@ If you need to install opencv or matplotlib module manually, you can follow the 
 
 This plugin creates histogram of a part of a raster. The histogram is created according to the specified polygon layer.
 
-Some illustrative examples are shown below:
+### Some illustrative examples are shown below:
+<br/>
+<br/>
 <br/>
 
 <p align="left">
