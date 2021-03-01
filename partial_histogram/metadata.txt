@@ -10,7 +10,7 @@ version=1.0
 author=Murat ÇALIŞKAN
 email=caliskan.murat.20@gmail.com
 
-about=This plugin creates histogram of a part of a raster. The histogram is created according to the specified polygon layer.For correct results please be sure that the layer and the canvas have same coordinate reference system. (In this plugin opencv2 and matplotlib module is used and some QGIS versions may not include this module. If you get an error about this, you have to install it manually. To learn how to install, check the README file in Github page or search it on internet.)
+about=This plugin creates histogram of a part of a raster. The histogram is created according to the specified polygon layer.For correct results please be sure that the layer and the canvas have same coordinate reference system. (In this plugin opencv2 and matplotlib module is used and some QGIS versions may not include these modules. If you get an error about this, you have to install it manually. To learn how to install, check the README file in Github page or search it on internet.)
 
 tracker=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin/issues
 repository=https://github.com/caliskanmurat/qgis_easy_raster_splitter_plugin
