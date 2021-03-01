@@ -6,6 +6,7 @@ If you need to install opencv or matplotlib module manually, you can follow the 
 2-) Type py3_env in the console (This should print paths of your QGIS Python installation),<br/>
 3-) Type python -m pip install {your library}<br/>
 "python -m pip install opencv-python"<br/>
+"python -m pip install matplotlib"<br/>
 <sub>*Source:https://gis.stackexchange.com/questions/141320/installing-3rd-party-python-libraries-for-qgis-on-windows*</sub><br/><br/>
 
 
