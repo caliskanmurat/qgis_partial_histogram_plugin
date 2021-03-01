@@ -29,5 +29,5 @@ This plugin creates histogram of a part of a raster. The histogram is created ac
 <br/>
 <br/>
 
-#### - The image below illustrates the histogram of "Denizli City", but this time the district data and its city attribute was used. The districts are dissolved by city name.
+#### - The image below illustrates the histogram of "Denizli City", but this time the "Districts" data and its "City" attribute was used. The "districts" are dissolved by "city name".
 <img width="100%" src="../images/image_2.PNG">
