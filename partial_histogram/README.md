@@ -10,7 +10,7 @@ If you need to install opencv or matplotlib module manually, you can follow the 
 <sub>*Source:https://gis.stackexchange.com/questions/141320/installing-3rd-party-python-libraries-for-qgis-on-windows*</sub><br/><br/>
 
 
-This plugin creates histogram of a part of a raster. The histogram is created according to the specified polygon layer.
+This plugin creates histogram of a part of a raster. The histogram is created according to the specified polygon layer.For correct results please be sure that the layer and the canvas have same coordinate reference system.
 
 ### Some illustrative examples are shown below:
 <br/>
