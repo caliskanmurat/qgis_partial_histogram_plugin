@@ -289,7 +289,7 @@ class PartialHistogram:
         self.array = np.array([])
         for feat in self.features:
             if str(feat[self.fld]) == self.attr.text():
-                self.geom = feat.geometry()
+                self.geom = feat.geometry().buffer(0,5)
                 self.bbox = self.geom.boundingBox()
                 self.minX, self.maxX, self.minY, self.maxY = self.bbox.xMinimum(), self.bbox.xMaximum(), self.bbox.yMinimum(), self.bbox.yMaximum()
                 self.col_left, self.row_top = self.map2pix((self.minX, self.maxY), x0=self.geot[0], y0=self.geot[3], size=self.geot[1])
