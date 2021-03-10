@@ -6,7 +6,7 @@
 name=Partial Histogram
 qgisMinimumVersion=3.0
 description=This plugin creates histogram of a part of a raster.
-version=1.1
+version=1.2
 author=Murat ÇALIŞKAN
 email=caliskan.murat.20@gmail.com
 
